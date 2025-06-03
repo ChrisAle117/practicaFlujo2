@@ -1,2 +1,4 @@
 Contenido inicial del proyecto.
 Develop: Inicio de desarrollo de nuevas caracteristicas.
+User1: Caracteristica A - Parte 1.
+User1: Caracteristica A - Parte 2.
