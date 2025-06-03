@@ -1,2 +1,3 @@
 Contenido inicial del proyecto.
 Hotfix: Correcion critica 1.
+Hotfix: Correcion critica 2.
