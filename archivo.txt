@@ -18,3 +18,4 @@ User3: Bugfix C - Parte 1.
 User3: Bugfix C - Parte 2.
 >>>>>>> f6e3c54dd377096e1a35cd9dec893119976d84f8
 >>>>>>> f8235cbaafab2c873b44a99031ead766456c6f39
+Release: Ajustes finales antes de produccion.
