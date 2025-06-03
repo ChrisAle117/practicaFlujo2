@@ -24,3 +24,4 @@ User3: Bugfix C - Parte 2.
 >>>>>>> f8235cbaafab2c873b44a99031ead766456c6f39
 Release: Ajustes finales antes de produccion.
 >>>>>>> 488b1f8626f93139d332af4774a288c6713162c7
+Main: Finalizacion del ciclo de desarrollo.
