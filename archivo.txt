@@ -1,2 +1,3 @@
 Contenido inicial del proyecto.
 Develop: Inicio de desarrollo de nuevas caracteristicas.
+User3: Bugfix C - Parte 1.
