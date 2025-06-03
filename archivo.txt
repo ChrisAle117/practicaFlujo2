@@ -3,3 +3,4 @@ Develop: Inicio de desarrollo de nuevas caracteristicas.
 User2: Caracteristica B - Parte 1.
 User2: Caracteristica B - Parte 2.
 User2: Caracteristica B - Parte 3.
+User2: Caracteristica B - Parte 4.
