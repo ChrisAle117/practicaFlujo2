@@ -1,4 +1,11 @@
 Contenido inicial del proyecto.
 Develop: Inicio de desarrollo de nuevas caracteristicas.
+<<<<<<< HEAD
 User1: Caracteristica A - Parte 1.
 User1: Caracteristica A - Parte 2.
+=======
+User2: Caracteristica B - Parte 1.
+User2: Caracteristica B - Parte 2.
+User2: Caracteristica B - Parte 3.
+User2: Caracteristica B - Parte 4.
+>>>>>>> c18795d636df6e8a3e2e35c6502242ce748328a9
