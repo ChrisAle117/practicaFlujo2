@@ -1,2 +1,20 @@
 Contenido inicial del proyecto.
+<<<<<<< HEAD
 Release: Preparacion para la liberacion.
+=======
+Develop: Inicio de desarrollo de nuevas caracteristicas.
+<<<<<<< HEAD
+<<<<<<< HEAD
+User1: Caracteristica A - Parte 1.
+User1: Caracteristica A - Parte 2.
+=======
+User2: Caracteristica B - Parte 1.
+User2: Caracteristica B - Parte 2.
+User2: Caracteristica B - Parte 3.
+User2: Caracteristica B - Parte 4.
+>>>>>>> c18795d636df6e8a3e2e35c6502242ce748328a9
+=======
+User3: Bugfix C - Parte 1.
+User3: Bugfix C - Parte 2.
+>>>>>>> f6e3c54dd377096e1a35cd9dec893119976d84f8
+>>>>>>> f8235cbaafab2c873b44a99031ead766456c6f39
